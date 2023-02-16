@@ -13,8 +13,8 @@ namespace ConsoleApp1
             int a = 5;
             int b = 2;
             int summ = a + b;
-            Console.WriteLine(summ);    
-
+            Console.WriteLine(summ);
+            Console.ReadKey();
         }
     }
 }
